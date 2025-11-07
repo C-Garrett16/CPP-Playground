@@ -3,7 +3,7 @@
 #include "player.h"
 
 int main () {
-    while (Player::isAlive() || Enemy::isAlive()) {
+    while (Player::isAlive() && Enemy::isAlive()) {
         std::cout << "Player attacks enemy!" << std::endl;
         Enemy::takeDamage(Player::attackPower);
 
@@ -11,6 +11,7 @@ int main () {
         Player::takeDamage(Enemy::attackPower);
 
         std::cout << "Current HP Enemy: " << Enemy::hp << " Player: " << Player::hp << std::endl;
+
 
     }
 
