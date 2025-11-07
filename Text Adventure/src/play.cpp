@@ -11,8 +11,6 @@ int main () {
         Player::takeDamage(Enemy::attackPower);
 
         std::cout << "Current HP Enemy: " << Enemy::hp << " Player: " << Player::hp << std::endl;
-	
-	std::cout << "Hello World!" << std::endl;
 
     }
 
