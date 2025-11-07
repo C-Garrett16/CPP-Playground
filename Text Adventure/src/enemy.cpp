@@ -17,7 +17,7 @@ bool Enemy::isAlive() {
 }
 
 void Enemy::takeDamage(int attack) {
-    Enemy::hp -= attack;
+    Enemy::hp = std::max(0, hp - attack);
     Enemy::isAlive();
 
 }

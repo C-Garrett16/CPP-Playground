@@ -14,6 +14,7 @@ bool Player::isAlive() {
     };
 }
 
-int Player::takeDamage(int attack) {
-    return Player::hp -= attack;
+void Player::takeDamage(int attack) {
+    Player::hp = std::max(0, hp - attack);
+    Player::isAlive();
 }
