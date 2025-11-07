@@ -9,6 +9,9 @@ int main () {
 
         std::cout << "Enemy attacks Player!" << std::endl;
         Player::takeDamage(Enemy::attackPower);
+
+        std::cout << "Current HP Enemy: " << Enemy::hp << " Player: " << Player::hp << std::endl;
+
     }
 
 }

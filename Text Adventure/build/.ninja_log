@@ -1,0 +1,5 @@
+# ninja log v7
+1	621	1762486826859822983	CMakeFiles/game.dir/src/player.cpp.o	72ff9368a3b626ba
+1	623	1762486826859545685	CMakeFiles/game.dir/src/play.cpp.o	641ee103f256d407
+1	624	1762486826859998279	CMakeFiles/game.dir/src/enemy.cpp.o	50b9deb109b072eb
+624	668	1762486827482702548	bin/game	b4a6c1df014030d0

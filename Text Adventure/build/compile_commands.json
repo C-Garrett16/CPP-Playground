@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/build",
+  "command": "/usr/bin/c++ -I\"/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/include\" -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/game.dir/src/play.cpp.o -c \"/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/src/play.cpp\"",
+  "file": "/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/src/play.cpp",
+  "output": "/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/build/CMakeFiles/game.dir/src/play.cpp.o"
+},
+{
+  "directory": "/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/build",
+  "command": "/usr/bin/c++ -I\"/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/include\" -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/game.dir/src/player.cpp.o -c \"/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/src/player.cpp\"",
+  "file": "/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/src/player.cpp",
+  "output": "/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/build/CMakeFiles/game.dir/src/player.cpp.o"
+},
+{
+  "directory": "/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/build",
+  "command": "/usr/bin/c++ -I\"/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/include\" -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/game.dir/src/enemy.cpp.o -c \"/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/src/enemy.cpp\"",
+  "file": "/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/src/enemy.cpp",
+  "output": "/Users/cgreid/Documents/Coding/CPP/Playground/CPP-Playground/Text Adventure/build/CMakeFiles/game.dir/src/enemy.cpp.o"
+}
+]
